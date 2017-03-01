@@ -223,7 +223,7 @@
             \pgfsetdash{{0pt}{4pt}}{0pt}
             \pgfusepath{stroke}
           \end{pgfpicture}};      
-      \node[anchor=south east, inner sep=0pt, xshift=-15mm, yshift=12mm]
+      \node[anchor=south east, inner sep=0pt, xshift=-15mm, yshift=10mm]
         at (current page.south east) {\tikz\pic{uoblogo};};
       \node[anchor=south west, inner sep=0pt, xshift=15mm, yshift=12mm]
         at (current page.south west) {\parbox{\linewidth}{%
